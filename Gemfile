@@ -1,3 +1,4 @@
 source "http://rubygems.org"
-gemspec
 
+# Specify your gem's dependencies in ..gemspec
+gemspec

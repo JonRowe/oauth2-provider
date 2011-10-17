@@ -1,5 +1,5 @@
 spec = Gem::Specification.new do |s|
-  s.name              = "oauth2-provider"
+  s.name              = "oauth2-provider-jonrowe"
   s.version           = "0.1.0"
   s.summary           = "Simple OAuth 2.0 provider toolkit"
   s.author            = "James Coglan"
